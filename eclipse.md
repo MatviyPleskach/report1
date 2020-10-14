@@ -1,0 +1,2 @@
+3.Eclipse
+Eclipse - вільне модульне інтегроване середовище розробки програмного забезпечення.Може бути використаний для розробки додатків на Java.Eclipse підтримує Linux Mac OS X, Solaris, Windows.Є можливість розробки ПЗ на багатьох мовах програмування:Ada, C, C++, C#, COBOL, Fortran, Perl, PHP, Python, R, Ruby (включно з каркасом Ruby on Rails), Scala, Clojure та Scheme (рідною є Java).Має відкритий код
